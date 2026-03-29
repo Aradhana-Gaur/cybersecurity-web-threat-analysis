@@ -64,7 +64,7 @@ cybersecurity-web-threat-analysis/
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack & Tools
 
 | Category | Tools |
 |---|---|
@@ -73,7 +73,20 @@ cybersecurity-web-threat-analysis/
 | **Visualization** | Matplotlib, Seaborn, Plotly |
 | **Machine Learning** | Scikit-learn (Random Forest, Isolation Forest, K-Means) |
 | **Network Analysis** | NetworkX |
-| **Environment** | Jupyter Notebook / VS Code |
+| **Environment** | Jupyter Notebook, VS Code |
+| **Domain** | Data Analytics |
+| **Dataset Source** | AWS CloudWatch WAF Logs |
+
+---
+
+## 🧰 Libraries Used
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
